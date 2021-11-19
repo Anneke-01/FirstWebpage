@@ -1,0 +1,22 @@
+
+body .style-disculpas
+{
+    width: 50%;
+    color: white;
+    background-color: RGBA(0,0,0,0.76);
+    box-shadow: -38px 7px 101px 35px rgba(0,0,0,1);
+        -webkit-box-shadow: -38px 7px 101px 35px rgba(0,0,0,1);
+        -moz-box-shadow: -38px 7px 101px 35px rgba(0,0,0,1);
+    margin-top: 70px;
+    margin-left: 25%;
+    height: 450px;
+}
+body h1, p
+{
+    text-align: center;
+}
+
+body .style-disculpas iframe
+{
+    margin-left: 10%;
+}
